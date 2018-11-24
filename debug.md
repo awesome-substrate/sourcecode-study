@@ -22,3 +22,7 @@
   }
  
 * run `rm -rf ~/Library/Application\ Support/Substrate/chains/development/` if see the invalid block error
+
+* cargo build
+
+* start debug in vscode
