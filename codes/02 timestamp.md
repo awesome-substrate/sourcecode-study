@@ -39,3 +39,9 @@
 4.6. set_storage state-machine
 
 4.7 overlayed_changes.rs set_storage
+
+
+# ::runtime_io::with_externalities
+
+## state-machine is the place where db get updated
+
