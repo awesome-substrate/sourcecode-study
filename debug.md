@@ -26,3 +26,6 @@
 * cargo build
 
 * start debug in vscode
+
+## macro pretty
+```rustup run nightly cargo rustc -- -Z unstable-options --pretty=expanded > expanded.rs```
