@@ -29,3 +29,8 @@
 
 ## macro pretty
 ```rustup run nightly cargo rustc -- -Z unstable-options --pretty=expanded > expanded.rs```
+
+
+## prune the chain
+
+```rm -rf ~/Library/Application\ Support/Substrate/chains/development/```
